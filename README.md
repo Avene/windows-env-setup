@@ -12,3 +12,4 @@ windows setup procedure
 ```
 choco install choco_packages.config
 ```
+_Note that it is necessary to run command prompt as administrator_
